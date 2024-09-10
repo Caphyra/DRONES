@@ -1,0 +1,7 @@
+names:
+- drone
+nc: 1
+train: C:/Users/leona/Downloads/DRONES/datasets/drone_dataset/train
+val: C:/Users/leona/Downloads/DRONES/datasets/drone_dataset/valid
+
+
